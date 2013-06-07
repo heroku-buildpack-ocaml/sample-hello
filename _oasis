@@ -9,5 +9,6 @@ Plugins:     META (0.3), StdFiles (0.3), DevFiles (0.3)
 Executable server
   Path:       src
   BuildTools: ocamlbuild
+  CompiledObject: best
   MainIs:     main.ml
   BuildDepends: unix
