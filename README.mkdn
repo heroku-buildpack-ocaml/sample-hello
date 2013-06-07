@@ -20,7 +20,7 @@ How to use
 
 First, create heroku app:
 
-    $ heroku create buildpack-ocaml-heroku --buildpack https://github.com/mzp/heroku-buildpack-ocaml
+    $ heroku create buildpack-ocaml-hello --buildpack https://github.com/mzp/heroku-buildpack-ocaml
 
 ### Run at local
 
