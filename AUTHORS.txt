@@ -1,0 +1,5 @@
+(* OASIS_START *)
+(* DO NOT EDIT (digest: d71c2e127da3df7595c2df9ee936acae) *)
+Authors of buildpack-ocaml-hello
+mzp
+(* OASIS_STOP *)
